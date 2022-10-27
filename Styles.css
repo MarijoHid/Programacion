@@ -1,0 +1,41 @@
+h1 { 
+color: pink;
+border: 1px solid burlywood;
+background-color: gray;
+}
+
+h2 {
+    color:aquamarine;
+}
+
+h3 {
+    color:blueviolet;
+    display: flex;
+}
+.lista {
+    color:red;
+    font-size: medium;
+}
+
+#Aprender {
+    border: 5px solid purple;
+}
+
+#Colores {
+    border: 5px solid orange;
+}
+
+#Manualidades {
+    border: 5px solid gold;
+}
+
+#SeccionI {
+    display: flex;
+    justify-content: left;
+     
+}
+
+body header nav ul li a {
+
+    color:black
+}

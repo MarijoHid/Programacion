@@ -5,11 +5,11 @@ console.log(nombre)
 
 let apellido= 'Hidalgo'
 
-console.log(typeof apellido)
+
 console.log(apellido)
 
 let edad= 26;
-console.log(typeof edad)
+
 console.log(edad)
 
 let mascota= "Cobayo";
